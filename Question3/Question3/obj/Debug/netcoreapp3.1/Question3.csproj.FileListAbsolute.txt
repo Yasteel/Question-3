@@ -1,0 +1,11 @@
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.exe
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.deps.json
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.json
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.dev.json
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.dll
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.pdb
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.csprojAssemblyReference.cache
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfoInputs.cache
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfo.cs
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.dll
+C:\Users\Yasteel\Desktop\3rd Year Semester 2\Assignments\Programming 742\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.pdb
